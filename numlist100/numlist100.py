@@ -3,6 +3,6 @@
 
 count = 0
 while (count < 100):
-    count = count + 2
+    count = count + 3
     print(count + 4)
 
